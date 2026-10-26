@@ -1,0 +1,464 @@
+{
+  "source": "D:/Download/Financial Analysis SIG (SMGR) v1.pdf (vector extraction, 2026-10-18)",
+  "canvas_pt": {
+    "w": 960,
+    "h": 540,
+    "inches": [
+      13.333,
+      7.5
+    ]
+  },
+  "grid_pt": {
+    "content_left": 40.5,
+    "content_right": 919.5,
+    "title_text_x": 47.9,
+    "tracker_icon": [
+      40.5,
+      30.8,
+      15,
+      15
+    ],
+    "tracker_text_x": 63,
+    "tracker_y": 30.3,
+    "client_logo": [
+      848,
+      17,
+      46,
+      27
+    ],
+    "status_stamp": [
+      691.1,
+      31.9,
+      124.5,
+      18
+    ],
+    "title_line1_y": 61.7,
+    "title_line2_y": 83.5,
+    "title_line_height": 21.8,
+    "phase_tracker": [
+      688.5,
+      99.8,
+      164.3,
+      13.4
+    ],
+    "body_top": 113,
+    "body_bottom": 508,
+    "footer_band_top": 510.8,
+    "source_xy": [
+      47.9,
+      523.2
+    ],
+    "skha_logo": [
+      816.8,
+      514.5,
+      58.4,
+      21.7
+    ],
+    "page_number_x": 896.4,
+    "columns": {
+      "two_equal": [
+        [
+          40.5,
+          513.7
+        ],
+        [
+          539.0,
+          919.5
+        ]
+      ],
+      "two_asym_38_62": [
+        [
+          44.0,
+          377.0
+        ],
+        [
+          401.0,
+          900.0
+        ]
+      ],
+      "three": [
+        [
+          42.0,
+          331.0
+        ],
+        [
+          340.0,
+          620.0
+        ],
+        [
+          633.0,
+          912.0
+        ]
+      ],
+      "main_sidebar": [
+        [
+          41.0,
+          718.0
+        ],
+        [
+          728.0,
+          919.5
+        ]
+      ]
+    },
+    "column_rule": {
+      "color": "#1E64B0",
+      "width_pt": 1.5,
+      "gap_below_headline_pt": 3
+    },
+    "takeaway_box": {
+      "fill": "#E1F4FC",
+      "x": [
+        40.5,
+        919.5
+      ],
+      "height_pt": [
+        58,
+        82
+      ]
+    }
+  },
+  "fonts": {
+    "title": {
+      "face": "Univers",
+      "weight": "Bold",
+      "size": 18,
+      "color": "#0F1F33"
+    },
+    "tracker": {
+      "face": "Univers",
+      "weight": "Bold",
+      "size": 12,
+      "color": "#1E64B0"
+    },
+    "column_headline": {
+      "face": "Univers Light",
+      "bold": true,
+      "size": 12,
+      "color": "#161616"
+    },
+    "caption": {
+      "face": "Univers Light",
+      "size": 10.5,
+      "color": "#161616"
+    },
+    "body": {
+      "face": "Univers Light",
+      "size": [
+        11.25,
+        12
+      ],
+      "color": "#161616",
+      "secondary": "#363636"
+    },
+    "card_heading": {
+      "face": "Univers Light",
+      "size": 14.25,
+      "color": "#1A386E"
+    },
+    "kpi_number": {
+      "face": "Univers Light",
+      "size": 15.75,
+      "bad": "#C00000",
+      "good_or_peer": "#1E64B0",
+      "on_dark": "#69C6F0"
+    },
+    "chart_label": {
+      "face": "Univers Light",
+      "size": 9,
+      "color": "#161616"
+    },
+    "table_body": {
+      "face": "Univers Light",
+      "size": [
+        10,
+        10.9
+      ],
+      "color": "#000000"
+    },
+    "footnote": {
+      "face": "Univers Light",
+      "size": [
+        6.75,
+        8.25
+      ],
+      "color": "#7F7F7F"
+    },
+    "source": {
+      "face": "Univers Light",
+      "size": 8.25,
+      "color": "#7F7F7F"
+    },
+    "page_number": {
+      "face": "Univers",
+      "weight": "Bold",
+      "size": 12,
+      "color": "#0E1F31"
+    },
+    "status_stamp": {
+      "face": "Univers Light",
+      "size": 12,
+      "color": "#FF0000",
+      "box_stroke": "#FF0000"
+    },
+    "bullet": {
+      "glyph": "•",
+      "face": "Arial",
+      "size": 12,
+      "bullet_x": 48.3,
+      "text_x": 61.9
+    },
+    "note": "Body bold = PowerPoint faux-bold on Univers Light. Only 'Univers LT Std 45 Light' installed locally; Univers Bold missing."
+  },
+  "palette": {
+    "official_swatches": [
+      "#0F1F33",
+      "#12274C",
+      "#1E64B0",
+      "#368FCE",
+      "#69C6F0",
+      "#595A5C",
+      "#A6A6A6",
+      "#BFBFBF",
+      "#D9D9D9",
+      "#F2F2F2"
+    ],
+    "ink_navy": "#0F1F33",
+    "navy": "#12274C",
+    "skha_blue": "#1E64B0",
+    "mid_blue": "#368FCE",
+    "sky": "#69C6F0",
+    "charcoal": "#595A5C",
+    "deep_navy": "#1A386E",
+    "dark_bg": "#0E1F32",
+    "panel_lightest": "#F0FAFE",
+    "panel_light": "#E1F4FC",
+    "band": "#A5DDF6",
+    "chip": "#C3E8F9",
+    "panel_grey": "#F2F2F2",
+    "chart_baseline": "#CCDCF0",
+    "hairline": "#E5E5E5",
+    "group_separator": "#C2C2C2",
+    "dashed_separator": "#D6EFFA",
+    "text_title": "#0F1F33",
+    "text_body": "#161616",
+    "text_table": "#000000",
+    "text_muted": "#7F7F7F",
+    "sig_brand_red_logo_only": "#F5333F",
+    "rag_strong": {
+      "low": "#C00000",
+      "med": "#FFC000",
+      "high": "#00B050"
+    },
+    "heatmap_soft": {
+      "low": "#F7C3B3",
+      "med": "#F6F8CC",
+      "high": "#D6EFBF"
+    },
+    "constraint_tint": [
+      "#F48889",
+      "#FAC6CA"
+    ],
+    "ease_tint": [
+      "#C2EBFB",
+      "#F0FAFE"
+    ],
+    "wip_placeholder": {
+      "fill": "#FFC000",
+      "stroke": "#0F1F33",
+      "stroke_pt": 1
+    }
+  },
+  "table_v1_excel_style": {
+    "header": "#002060",
+    "section_row": "#0070C0",
+    "subtotal": "#DDEBF7",
+    "total": "#BDD7EE",
+    "total_top_rule": "#002060",
+    "row_height_pt": 13.1,
+    "label_col_pt": 165,
+    "year_col_pt": 76,
+    "growth_col_pt": 51,
+    "number_format": "id-ID: 36.702.301 ; negatives (1.773.650) ; pct (1,0%) ; n.m. ; –",
+    "template_mapping_option": {
+      "#002060": "#12274C",
+      "#0070C0": "#1E64B0",
+      "#DDEBF7": "#E1F4FC",
+      "#BDD7EE": "#C3E8F9"
+    }
+  },
+  "chart_spec_proposed": {
+    "font": "Univers Light",
+    "size": 9,
+    "axis_label": "#595959",
+    "data_label_inside": "#FFFFFF",
+    "data_label_outside": "#262626",
+    "entities": {
+      "SIG": "#12274C",
+      "INTP": "#69C6F0",
+      "Others": "#BFBFBF"
+    },
+    "negative_highlight": "#C00000",
+    "sequential_dark_to_light": [
+      "#12274C",
+      "#1E64B0",
+      "#368FCE",
+      "#69C6F0",
+      "#A5DDF6",
+      "#E1F4FC"
+    ],
+    "idle_or_unused": "#D9D9D9",
+    "line": {
+      "focal": [
+        "#12274C",
+        2.25
+      ],
+      "peer": [
+        "#69C6F0",
+        2.25
+      ],
+      "benchmark_dashed": [
+        "#7F7F7F",
+        1.0
+      ]
+    },
+    "baseline": [
+      "#CCDCF0",
+      0.75
+    ],
+    "gridlines": false,
+    "chart_border": false,
+    "legend": "bottom, 5x5 square, 9pt",
+    "v1_observed_note": "V1 used SIG=#C00000 red in pies/KPI and Office default series colours; pick one scheme deck-wide."
+  },
+  "source_files": {
+    "pptx": "D:/Download/Financial Analysis SIG (SMGR) v1.pptx",
+    "xlsx": "D:/Download/WP - Financial Analysis SIG (SMGR) v0.xlsx",
+    "pdf": "D:/Download/Financial Analysis SIG (SMGR) v1.pdf"
+  },
+  "pptx_theme": {
+    "color_scheme": "Skha Colors",
+    "slots": {
+      "dk1": "#0F1F33",
+      "lt1": "#FFFFFF",
+      "dk2": "#12274C",
+      "lt2": "#F0FAFE",
+      "accent1": "#1E64B0",
+      "accent2": "#368FCD",
+      "accent3": "#69C6F0",
+      "accent4": "#595959",
+      "accent5": "#7F7F7F",
+      "accent6": "#D8D8D8",
+      "hlink": "#FFC000",
+      "folHlink": "#3ECCB4"
+    },
+    "fonts": {
+      "major_heading": "Univers",
+      "minor_body": "Univers Light",
+      "embedded": true
+    },
+    "highlight_palette": {
+      "sky": [
+        "#69C6F0",
+        "#A0DCF1",
+        "#CBEBF8",
+        "#E0F3FC"
+      ],
+      "green": [
+        "#9DC43B",
+        "#A8CF3B",
+        "#C3DB6C",
+        "#E7F1D4"
+      ],
+      "yellow": [
+        "#FBCD0A",
+        "#FCD432",
+        "#FEDE55",
+        "#FFEFAC"
+      ],
+      "red": [
+        "#EF4041",
+        "#F26B65",
+        "#F48889",
+        "#FAC6CA"
+      ]
+    }
+  },
+  "pptx_layouts": {
+    "content": {
+      "name": "6_Title Only",
+      "placeholders": {
+        "title": 0,
+        "tracker": 11,
+        "source": 10,
+        "slide_number": 4
+      },
+      "title_box_pt": [
+        40.6,
+        58.6,
+        878.7,
+        55.5
+      ],
+      "tracker_box_pt": [
+        55.7,
+        26.7,
+        421.0,
+        22.7
+      ],
+      "source_box_pt": [
+        40.6,
+        516.4,
+        510.2,
+        19.8
+      ],
+      "body_box_pt": [
+        40.6,
+        114.1,
+        878.7,
+        379.9
+      ]
+    },
+    "dark": "2_Title Only",
+    "cover": "Cover Page",
+    "disclaimer": "1_Title Only",
+    "section_divider": "Tracker",
+    "thank_you": "Thank You",
+    "appendix": "Appendix",
+    "end": "End Document",
+    "diamond_gradient": {
+      "angle_deg": 135,
+      "stops": [
+        [
+          "#0F1F33",
+          0
+        ],
+        [
+          "#368FCD",
+          70
+        ]
+      ]
+    },
+    "footer_gradient": {
+      "angle_deg": 0,
+      "stops": [
+        [
+          "#FFFFFF",
+          0
+        ],
+        [
+          "#F0FAFE",
+          100
+        ]
+      ]
+    }
+  },
+  "chart_reference_v1": {
+    "best_example": "slide 5 'Revenue vs cost SIG'",
+    "font": "Univers Light 9",
+    "gridlines": false,
+    "value_axis_deleted": true,
+    "gap_width": 50,
+    "overlap": 100,
+    "linked_to": "OneDrive Documents/SIG Finance Test/WP - Financial Analysis SIG (SMGR) v0.xlsx"
+  }
+}
